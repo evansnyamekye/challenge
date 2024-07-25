@@ -5,7 +5,6 @@ import { woolBalance } from "./utils/wool";
 import { useApollo } from "./utils/apollo";
 import Page from "./Page";
 import Modal from "react-modal";
-
 const App = () => {
     const client = useApollo();
 

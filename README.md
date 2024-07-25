@@ -1,4 +1,4 @@
-# Pichi Finance App  
+# Pichi Finance App
 
 MVP version of Pichi Finance (Version of Hiring Purpose) 
 

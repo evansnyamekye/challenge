@@ -1,6 +1,6 @@
 # Pichi Finance App
 
-MVP version of Pichi Finance (Version of Hiring Purpose) 
+MVP version of Pichi Finance < Formerly Michi Protocol > (Version of Hiring Purpose) 
 
 ## Todos for Candidates
 

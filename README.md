@@ -5,7 +5,7 @@ MVP version of Pichi Finance < Formerly Michi Protocol > (Version of Hiring Purp
 ## Todos for Candidates
 
 This repository include MVP project which have very basic Web3 terms but it is essentials to understand our main project. Its inlcude Front-end and Back-end and smart contracts. 
-
+ 
 "yarn start" will launch our project, please check our development version of UI.
 
 ## How to make a Report (Doc, Docx, PDF) to our Company?

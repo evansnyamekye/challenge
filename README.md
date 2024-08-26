@@ -30,8 +30,11 @@ MVP version of Pichi Finance < Formerly Michi Protocol >
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 - **React.js**
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- ✅ Click [here](https://budget-app-zipl.onrender.com) to see Pichi App
 
 ### Key Features <a name="key-features"></a>
 
@@ -100,11 +103,6 @@ Example command:
 ```sh
  yarn start
 ```
-## Live Demo
-
-[Live Demo](https://your-live-site-url.com)
-
-
 ## 👥 Author <a name="authors"></a>
 
 👤 **Evans Kofi Nyamekye**

@@ -31,7 +31,7 @@ MVP version of Pichi Finance < Formerly Michi Protocol >
 ### Tech Stack <a name="tech-stack"></a>
 
 
-- **Reat**
+- **React.js**
 
 ### Key Features <a name="key-features"></a>
 

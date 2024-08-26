@@ -100,6 +100,10 @@ Example command:
 ```sh
  yarn start
 ```
+## Live Demo
+
+[Live Demo](https://your-live-site-url.com)
+
 
 ## 👥 Author <a name="authors"></a>
 
@@ -137,7 +141,7 @@ Hey @Colleauges,  kindly drop a start ⭐️ after series of check  [repository]
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I want to thank the management of Pichi Finance for this great opportunity. I thank Pichi Finance for this great chance to join fellow developer.
+I want to thank the management of Pichi Finance for this great opportunity. I thank Pichi Finance for the chance to join fellow developers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

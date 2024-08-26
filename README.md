@@ -31,6 +31,10 @@ MVP version of Pichi Finance < Formerly Michi Protocol >
 ### Tech Stack <a name="tech-stack"></a>
 
 - **React.js**
+- **Solidity**
+- **JavaScript**
+- **HTML**
+- **CSS**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -38,11 +42,6 @@ MVP version of Pichi Finance < Formerly Michi Protocol >
 
 ### Key Features <a name="key-features"></a>
 
-- **React.js**
-- **Solidity**
-- **JavaScript**
-- **HTML**
-- **CSS**
 - **Functional website**
 - **Unit testing**
 

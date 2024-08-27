@@ -78,5 +78,8 @@
   },
   "engines": {
     "node": "20.x"
+  },
+  "resolutions": {
+    "@babel/core": "^7.16.0"
   }
 }

@@ -38,7 +38,7 @@ MVP version of Pichi Finance < Formerly Michi Protocol >
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- ✅ Click [here](https://budget-app-zipl.onrender.com) to see Pichi App
+- ✅ Click [here](https://challenge-git-main-evansnyamekyes-projects.vercel.app/) to see Pichi App
 
 ### Key Features <a name="key-features"></a>
 

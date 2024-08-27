@@ -1,7 +1,8 @@
-// src/components/Button.test.js
+// src/components/Button.test.jsx
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
-import Button from './Button';
+import '@testing-library/jest-dom/extend-expect'; // Import this to use toBeInTheDocument
+import Button from '../components/Button';
 
 describe('Button Component', () => {
   test('renders the Button component', () => {
